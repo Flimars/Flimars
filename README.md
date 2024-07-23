@@ -1,6 +1,6 @@
 ## Oi! Sou o Flávio Lima, um apaixonado por tecnologia e inovação.
 
-- 👨‍💼 Atualmente estou desempregado e em busca de novas oportunidades.
+- 👨‍💼 Atualmente em busca de novas oportunidades.
 - 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas no IFRS.
 - 📚 Estou dedicando meu tempo para aprimorar minhas habilidades de hard skills e adquirir conhecimentos técnicos mais aprofundados, com foco em atuar como Full Stack Developer.
 - 👨🏻‍🎓 Formado Técnico em Automação Industrial pelo IFRS.
